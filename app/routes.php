@@ -35,7 +35,7 @@ return function (App $app) {
 
         $array["api"] = "ninesys TESTS";
 
-        $array["version"] = "3.33.1";
+        $array["version"] = "3.4";
 
         $array["description"] = "Api ninesys";
 
